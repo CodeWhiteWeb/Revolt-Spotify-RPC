@@ -88,7 +88,7 @@ function spotify(username, api_key) {
       }
     }
     request(options, callback);
-  }, 180000);
+  }, 30000);
 }
 
 const username = `${process.env.spotify_username}`;
