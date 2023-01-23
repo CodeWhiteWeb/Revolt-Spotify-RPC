@@ -4,7 +4,7 @@ Display what you are listening in spotify on Revolt.chat as status
 
 ## Badges
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Files count](https://img.shields.io/badge/License-MIT-green.svg)](https://img.shields.io/github/directory-file-count/CodeWhiteWeb/Revolt-Spotify-RPC)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Files count](<[https://img.shields.io/badge/License-MIT-green.svg](https://img.shields.io/github/directory-file-count/CodeWhiteWeb/Revolt-Spotify-RPC)>)](https://img.shields.io/github/directory-file-count/CodeWhiteWeb/Revolt-Spotify-RPC)
 
 ## Run Locally
 
