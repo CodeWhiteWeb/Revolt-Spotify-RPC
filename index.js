@@ -8,7 +8,6 @@ const fs = require("fs");
 const revolt = require("revolt.js");
 const XMLHttpRequest = require("xhr2");
 const request = require("request");
-const fs = require("fs");
 
 //starting web host
 app.get("/", (req, res) => {
