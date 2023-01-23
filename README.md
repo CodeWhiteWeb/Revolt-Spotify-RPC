@@ -1,10 +1,20 @@
+<div align="center">
+
 # Revolt Spotify RPC
+
+![image](https://user-images.githubusercontent.com/79645854/213982771-2c1a1132-6009-4b6b-82e8-b7f6a321298e.png)
 
 Display what you are listening in spotify on Revolt.chat as status
 
-## Badges
+![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+![GitHub license1](https://img.shields.io/github/languages/top/CodeWhiteWeb/Revolt-Spotify-RPC)
+![GitHub license](https://img.shields.io/github/issues-pr-closed-raw/CodeWhiteWeb/Revolt-Spotify-RPC)
+![GitHub license2](https://img.shields.io/github/languages/code-size/CodeWhiteWeb/Revolt-Spotify-RPC)
+![GitHub license31](https://img.shields.io/github/issues/CodeWhiteWeb/Revolt-Spotify-RPC)
+![GitHub license3](https://img.shields.io/github/issues-pr/CodeWhiteWeb/Revolt-Spotify-RPC)
+![GitHub license4](https://img.shields.io/github/contributors/CodeWhiteWeb/Revolt-Spotify-RPC)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) ![Files count](https://img.shields.io/github/directory-file-count/CodeWhiteWeb/Revolt-Spotify-RPC)
+</div>
 
 ## Run Locally
 
