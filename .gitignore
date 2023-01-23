@@ -41,6 +41,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.husky/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -134,3 +135,4 @@ dist
 .replit
 replit.nix
 package-lock.json
+.prettierrc.json
