@@ -5,7 +5,7 @@ const app = express()
 const port = 8080
 var XMLHttpRequest = require('xhr2');
 app.get('/', (req, res) => {
-  res.send('The Status will update after every 3 mins , no instant update is visible, so just listen the sound')
+  res.send('The Status will update after every 30 second , no instant update is visible, so just listen the song')
 })
 
 app.listen(port, () => {
