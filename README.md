@@ -72,7 +72,7 @@ Fill all the required fields in `.env` file and run
 
 ## Screenshots
 
-![App Screenshot](<![image](image/demo.png)>)
+![App Screenshot](image/demo.png)
 
 ## Author
 
